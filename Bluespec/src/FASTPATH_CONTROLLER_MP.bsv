@@ -1,6 +1,8 @@
 /*
- * Copyright (c) 2018, Thanos Stratikopoulos, APT Group, Department of Computer Science,
+ * Copyright (c) 2018-2021, APT Group, Department of Computer Science,
  * School of Engineering, The University of Manchester. All rights reserved.
+ *
+ * Authors: Thanos Stratikopoulos
  */
 package FASTPATH_CONTROLLER_MP;
 

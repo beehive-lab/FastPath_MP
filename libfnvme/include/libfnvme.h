@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018, Thanos Stratikopoulos, APT Group, Department of Computer Science,
+ * Copyright (c) 2018-2021, APT Group, Department of Computer Science,
  * School of Engineering, The University of Manchester. All rights reserved.
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,6 +13,8 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ *
+ * Authors: Thanos Stratikopoulos
  */
 
 typedef struct {
