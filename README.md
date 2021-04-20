@@ -4,7 +4,7 @@
 This repository stores the source code of FastPath_MP, an FPGA-based multi-path architecture 
 for direct access from FPGA to NVMe SSD.
 In particular it includes three modules:
-- The FastPath_MP FPGA architecture implemented in `Bluespec`.
+- The FastPath_MP FPGA architecture implemented in `fpga-design`.
 - The `libfnvme` library that implements the C-based API that applications can utilize to communicate with FastPath_MP.
 - The modified NVMe driver in the Linux kernel (`linux-4.4-zynq`) for the Xilinx Zynq 7000 SoC.
 
@@ -12,7 +12,7 @@ In particular it includes three modules:
 The three modules of FastPath_MP are licensed as follows:
 |  Module | License  |
 |---|---|
-| FastPath_MP Bluespec System Verilog | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)|
+| FastPath_MP FPGA Design | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)|
 | Libfnvme Library | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)|
 | Modified NVMe driver | [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)|
 
