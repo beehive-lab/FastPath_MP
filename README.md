@@ -28,13 +28,14 @@ If you are using FastPath_MP, please use the following citation:
 ```bibtex
 @article{10.1145/3423134,
 author = {Stratikopoulos, Athanasios and Kotselidis, Christos and Goodacre, John and Luj\'{a}n, Mikel},
-title = {FastPath_MP: Low Overhead & Energy-Efficient FPGA-Based Storage Multi-Paths},
+title = {{FastPath\_MP: Low Overhead \& Energy-Efficient FPGA-Based Storage Multi-Paths}},
 year = {2020},
 issue_date = {December 2020},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 volume = {17},
 number = {4},
+journal = {ACM Trans. Archit. Code Optim.},
 issn = {1544-3566},
 url = {https://doi.org/10.1145/3423134},
 doi = {10.1145/3423134}
